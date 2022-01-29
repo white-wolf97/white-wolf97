@@ -27,7 +27,7 @@ I would like to improve my React skills, learn to use a no relational database l
 
 # How can you contact me?
 
-Send an email to adolfo.castelo.ac@gmail.com and I will answer you ASAP!
+Send an email to adolfo(dot)castelo(dot)ac(at)gmail(dot)com and I will answer you ASAP!
 
 Thank you!
 
