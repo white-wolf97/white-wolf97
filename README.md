@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-# Who I am?
+# Who am I?
 
 Adolfo Castelo
 
